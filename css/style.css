@@ -10,12 +10,12 @@ body{
 }
 
 #hero1{
-    background-image: url("../images/Original_Tetris.png");
+    background-image: url("../images/One.jpg");
     height: 50vh;
     background-size: cover;
     position: relative;
 }
-#hero2{  background-image: url("../images/Original_Tetris.png");
+#hero2{  background-image: url("../images/Two.png");
     height: 50vh;
     background-size: cover;
     position: relative;
@@ -27,73 +27,73 @@ body{
     position: relative;
 
 }
-#hero4{  background-image: url("../images/Original_Tetris.png");
+#hero4{  background-image: url("../images/Four.jpg");
     height: 50vh;
     background-size: cover;
     position: relative;
 
 }
-#hero5{  background-image: url("../images/Original_Tetris.png");
+#hero5{  background-image: url("../images/Five.png");
     height: 50vh;
     background-size: cover;
     position: relative;
 
 }
-#hero6{  background-image: url('/images/Six.jpg');
+#hero6{  background-image: url('../images/Six.jpg');
     height: 50vh;
     background-size: cover;
     position: relative;
 
 }
-#hero7{  background-image: url("../images/Original_Tetris.png");
+#hero7{  background-image: url("../images/Seven.jpg");
     height: 50vh;
     background-size: cover;
     position: relative;
 
 }
-#hero8{  background-image: url("../images/Original_Tetris.png");
+#hero8{  background-image: url("../images/Eight.jpg");
     height: 50vh;
     background-size: cover;
     position: relative;
 
 }
-#hero9{  background-image: url("../images/Original_Tetris.png");
+#hero9{  background-image: url("../images/Nine.jpg");
     height: 50vh;
     background-size: cover;
     position: relative;
 
 }
-#hero10{  background-image: url("../images/Original_Tetris.png");
+#hero10{  background-image: url("../images/Ten.jpg");
     height: 50vh;
     background-size: cover;
     position: relative;
 
 }
-#hero11{  background-image: url("../images/Original_Tetris.png");
+#hero11{  background-image: url("../images/Eleven.jpg");
     height: 50vh;
     background-size: cover;
     position: relative;
 
 }
-#hero12{  background-image: url("../images/Original_Tetris.png");
+#hero12{  background-image: url("../images/Twelve.jpg");
     height: 50vh;
     background-size: cover;
     position: relative;
 
 }
-#hero13{  background-image: url("../images/Original_Tetris.png");
+#hero13{  background-image: url("../images/Thirteen.jpg");
     height: 50vh;
     background-size: cover;
     position: relative;
 
 }
-#hero14{  background-image: url("../images/Original_Tetris.png");
+#hero14{  background-image: url("../images/Fourteen.jpg");
     height: 50vh;
     background-size: cover;
     position: relative;
 
 }
-#hero15{  background-image: url("../images/Original_Tetris.png");
+#hero15{  background-image: url("../images/Fifteen.jpg");
     height: 50vh;
     background-size: cover;
     position: relative;
@@ -104,6 +104,12 @@ body{
     font-weight: 25px;
 
 }
+
 .carousel-control-prev-icon {
-    color: green ;
-}
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3e%3cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3e%3c/svg%3e");
+  }
+  
+  .carousel-control-next-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+      
+  }  
