@@ -39,7 +39,7 @@ body{
     position: relative;
 
 }
-#hero6{  background-image: url("../images/Original_Tetris.png");
+#hero6{  background-image: url('/images/Six.jpg');
     height: 50vh;
     background-size: cover;
     position: relative;
