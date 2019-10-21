@@ -1,3 +1,6 @@
+body{
+    background-color: lightgray;
+}
 .background-color{
     background-color: #0600A9;
 }
@@ -8,7 +11,99 @@
 
 #hero1{
     background-image: url("../images/Original_Tetris.png");
-    height: 100vh;
+    height: 50vh;
     background-size: cover;
     position: relative;
+}
+#hero2{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero3{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero4{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero5{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero6{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero7{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero8{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero9{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero10{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero11{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero12{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero13{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero14{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+#hero15{  background-image: url("../images/Original_Tetris.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+
+}
+.mytext{
+    font-size: 25px;
+    font-weight: 25px;
+
+}
+.carousel-control-prev-icon {
+    color: green ;
 }
