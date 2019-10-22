@@ -106,6 +106,84 @@ a{
     position: relative;
 
 }
+
+#hero1pricing{ background-image: url("../images/OnePricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero2pricing{ background-image: url("../images/TwoPricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero3pricing{ background-image: url("../images/ThreePricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero4pricing{ background-image: url("../images/FourPricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero5pricing{ background-image: url("../images/FivePricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero6pricing{ background-image: url("../images/SixPricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero7pricing{ background-image: url("../images/SevenPricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero8pricing{ background-image: url("../images/EightPricing.png");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero9pricing{ background-image: url("../images/NinePricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero10pricing{ background-image: url("../images/TenPricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero11pricing{ background-image: url("../images/Eleven.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero12pricing{ background-image: url("../images/TwelvePricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero13pricing{ background-image: url("../images/ThirteenPricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero14pricing{ background-image: url("../images/FourteenPricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+#hero15pricing{ background-image: url("../images/FifteenPricing.jpg");
+    height: 50vh;
+    background-size: cover;
+    position: relative;
+}
+
+
 .mytext{
     font-size: 25px;
     font-weight: 25px;
